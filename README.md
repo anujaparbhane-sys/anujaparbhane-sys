@@ -8,15 +8,26 @@
 
 ---
 
+## 💼 Internship Experience
+**Data Analyst Intern | Ai Variant**  
+📍 *Remote / Online Internship*  
+📅 *Jul 2025 – Oct 2025*  
+- Completed a **3-month Data Analyst Internship** under ExcelR’s guidance.  
+- Worked on multiple projects using **Excel, SQL, Power BI, and Tableau**.  
+- Designed **interactive dashboards** for projects like *Crowdfunding Analysis* and *Customer Churn*.  
+- Gained experience in **ETL processes**, **data visualization**, and **data-driven storytelling**.
+
+---
+
 ## 🚀 Tools & Technologies
 - **Excel | Power BI | Tableau | SQL**
 - **Data Cleaning | Visualization | Dashboard Design | Reporting**
 
 ---
 
-## 📂 Projects
-- **Kickstarter Crowdfunding Analysis** – Dashboard in Excel, Power BI & Tableau  
-- **Customer Churn Analysis** – Data Visualization Project    
+## 📂 Featured Projects
+- 🧩 **Kickstarter Crowdfunding Analysis** – Dashboard in Excel, Power BI & Tableau  
+- 📉 **Customer Churn Analysis** – Data Visualization Project  
 
 ---
 
@@ -32,13 +43,19 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anujaparbhane-sys&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anujaparbhane-sys&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujaparbhane-sys&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anujaparbhane-sys&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+
+
 
 
 ---
