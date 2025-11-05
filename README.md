@@ -1,4 +1,8 @@
 # 💫 About Me:
+<p align="right">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" alt="Data Analysis GIF"/>
+</p>
+
 👋 Hi, I'm **Anuja Parbhane**  
 🎯 **Aspiring Data Analyst | Excel | Power BI | Tableau | SQL | Data Visualization**
 
@@ -9,6 +13,10 @@
 ---
 
 ## 💼 Internship Experience
+<p align="right">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Internship Work GIF"/>
+</p>
+
 **Data Analyst Intern | Ai Variant**  
 📍 *Remote / Online Internship*  
 📅 *Jul 2025 – Oct 2025*  
@@ -20,6 +28,11 @@
 ---
 
 ## 🚀 Tools & Technologies
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2twb3UzYzUydWlpaTFrZ2Z3NjFhaWxidGlvcW4wMjc4c2dzZHYzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Dashboard Visualization"/>
+</p>
+
+
 - **Excel | Power BI | Tableau | SQL**
 - **Data Cleaning | Visualization | Dashboard Design | Reporting**
 
@@ -53,9 +66,17 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anujaparbhane-sys&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ---
