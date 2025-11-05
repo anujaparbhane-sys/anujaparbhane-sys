@@ -14,10 +14,9 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 - **Kickstarter Crowdfunding Analysis** – Dashboard in Excel, Power BI & Tableau  
-- **Customer Churn Analysis** – Data Visualization Project  
-- **Bank Analytics Dashboard** – End-to-end data analysis using Excel  
+- **Customer Churn Analysis** – Data Visualization Project    
 
 ---
 
