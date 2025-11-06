@@ -1,8 +1,15 @@
 # 💫 About Me:
+
 <p align="left">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" alt="Data Analysis GIF"/>
 </p>
-👋 Hi, I'm **Anuja Parbhane**  
+<p align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand GIF"/> 
+  Hi, I'm <b>Anuja Parbhane</b>  
+</p>
+
+
+
 🎯 **Aspiring Data Analyst | Excel | Power BI | Tableau | SQL | Data Visualization**
 
 💡 Passionate about transforming data into actionable insights and meaningful stories.  
