@@ -34,7 +34,7 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂Projects
 - 🧩 **Kickstarter Crowdfunding Analysis** – Dashboard in Excel, Power BI & Tableau  
 - 📉 **Customer Churn Analysis** – Data Visualization Project  
 
