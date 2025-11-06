@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="right">
+<p align="left">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" alt="Data Analysis GIF"/>
 </p>
 👋 Hi, I'm **Anuja Parbhane**  
@@ -12,7 +12,7 @@
 ---
 
 ## 💼 Internship Experience
-<p align="right">
+<p align="left">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Internship Work GIF"/>
 </p>
 **Data Analyst Intern | Ai Variant**  
@@ -26,7 +26,7 @@
 ---
 
 ## 🚀 Tools & Technologies
-<p align="right">
+<p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2twb3UzYzUydWlpaTFrZ2Z3NjFhaWxidGlvcW4wMjc4c2dzZHYzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Dashboard Visualization"/>
 </p>
 - **Excel | Power BI | Tableau | SQL**
