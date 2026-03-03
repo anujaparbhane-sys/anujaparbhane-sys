@@ -11,8 +11,11 @@
 
 
 💼 Associate – IT Operations & Customer Support
+
 🔎 Application & Product Testing | Manual | Angular | AI
-📊 Excel | Power BI | Tableau | SQL
+
+📊 Excel | Power BI | Tableau 
+
 📄 Documentation | MIS Reporting | Data Accuracy | Compliance
 
 I focus on maintaining quality, accuracy, and smooth processes in every task I handle.
