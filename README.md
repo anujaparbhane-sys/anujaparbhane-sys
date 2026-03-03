@@ -24,7 +24,7 @@
 <p align="left">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Internship Work GIF"/>
 </p>
-## 💼 Professional Experience
+💼 Professional Experience
 
 **Associate – IT Operations & Customer Support**  
 **Openlinks Foundation | Currently Working**  
@@ -46,9 +46,12 @@
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2twb3UzYzUydWlpaTFrZ2Z3NjFhaWxidGlvcW4wMjc4c2dzZHYzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Dashboard Visualization"/>
 </p>
-- **Excel | Power BI | Tableau | SQL**
-- **Data Cleaning | Visualization | Dashboard Design | Reporting**
+## 🚀 Tools & Skills
 
+- **Excel | Power BI | Tableau **
+- **Data Cleaning | Data Validation | Dashboard Design | Reporting**
+- **Manual Testing | Angular Testing | AI Testing**
+- **Documentation | MIS Reporting | Process Compliance | Customer Support**
 ---
 
 ## 📂Projects
