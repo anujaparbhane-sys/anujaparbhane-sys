@@ -10,12 +10,12 @@
 
 
 
-🎯 **Aspiring Data Analyst | Excel | Power BI | Tableau | SQL | Data Visualization**
+💼 Associate – IT Operations & Customer Support
+🔎 Application & Product Testing | Manual | Angular | AI
+📊 Excel | Power BI | Tableau | SQL
+📄 Documentation | MIS Reporting | Data Accuracy | Compliance
 
-💡 Passionate about transforming data into actionable insights and meaningful stories.  
-📊 Skilled in analyzing, cleaning, and visualizing datasets using modern BI tools.  
-🎨 Creative thinker who loves designing dashboards and presentations with impact.
-
+I focus on maintaining quality, accuracy, and smooth processes in every task I handle.
 ---
 
 ## 💼 Internship Experience
