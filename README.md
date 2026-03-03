@@ -24,14 +24,22 @@
 <p align="left">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Internship Work GIF"/>
 </p>
-**Data Analyst Intern | Ai Variant**  
-📍 *Remote / Online Internship*  
-📅 *Jul 2025 – Oct 2025*  
-- Completed a **3-month Data Analyst Internship** under ExcelR’s guidance.  
-- Worked on multiple projects using **Excel, SQL, Power BI, and Tableau**.  
-- Designed **interactive dashboards** for projects like *Crowdfunding Analysis* and *Customer Churn*.  
-- Gained experience in **ETL processes**, **data visualization**, and **data-driven storytelling**.
+## 💼 Professional Experience
 
+**Associate – IT Operations & Customer Support**  
+**Openlinks Foundation | Currently Working**  
+- Handling customer queries and supporting daily IT operations.  
+- Performing manual, Angular, and AI-based application testing.  
+- Preparing MIS reports and maintaining documentation with data accuracy.  
+- Ensuring smooth workflows, process compliance, and timely issue resolution.  
+
+---
+
+**Data Analytics Intern**  
+**AiVariant | May 2025 – Dec 2025**  
+- Supported data cleaning, reporting, and dashboard creation.  
+- Worked with Excel, Power BI, and Tableau for analysis and visualization.  
+- Maintained structured reporting and ensured data consistency.
 ---
 
 ## 🚀 Tools & Technologies
