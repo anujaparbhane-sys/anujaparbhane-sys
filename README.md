@@ -18,7 +18,8 @@
 
   📄 Documentation | MIS Reporting | Data Accuracy | Compliance
 
-I focus on maintaining quality, accuracy, and smooth processes in every task I handle.
+**I focus on maintaining quality, accuracy, and smooth processes in every task I handle.**
+
 ## 💼 Internship Experience
 <p align="left">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Internship Work GIF"/>
