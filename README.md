@@ -20,7 +20,7 @@
 
 **I focus on maintaining quality, accuracy, and smooth processes in every task I handle.**
 
-## 💼 Internship Experience
+
 <p align="left">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Internship Work GIF"/>
 </p>
@@ -34,7 +34,7 @@
 - Ensuring smooth workflows, process compliance, and timely issue resolution.  
 
 ---
-
+## 💼 Internship Experience
 **Data Analytics Intern**  
 **AiVariant | May 2025 – Dec 2025**  
 - Supported data cleaning, reporting, and dashboard creation.  
