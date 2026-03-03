@@ -46,9 +46,11 @@
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2twb3UzYzUydWlpaTFrZ2Z3NjFhaWxidGlvcW4wMjc4c2dzZHYzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Dashboard Visualization"/>
 </p>
+ 🚀 Tools & Skills
+
 ## 🚀 Tools & Skills
 
-- **Excel | Power BI | Tableau **
+- **Excel | Power BI | Tableau**
 - **Data Cleaning | Data Validation | Dashboard Design | Reporting**
 - **Manual Testing | Angular Testing | AI Testing**
 - **Documentation | MIS Reporting | Process Compliance | Customer Support**
