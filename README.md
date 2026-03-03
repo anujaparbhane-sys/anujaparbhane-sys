@@ -21,11 +21,11 @@
 **I focus on maintaining quality, accuracy, and smooth processes in every task I handle.**
 
 
+💼 Professional Experience
+
 <p align="left">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Internship Work GIF"/>
 </p>
-💼 Professional Experience
-
 **Associate – IT Operations & Customer Support**  
 **Openlinks Foundation | Currently Working**  
 - Handling customer queries and supporting daily IT operations.  
